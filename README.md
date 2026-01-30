@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Arian
 
-<!--
-**Arian-Zarazua/Arian-Zarazua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/az05/)
+[![GitHub Followers](https://img.shields.io/github/followers/Jacob-Poore?label=Follow&style=social)](https://github.com/Arian-Zarazua)
+[![GitHub Stars](https://img.shields.io/github/stars/Jacob-Poore?style=social)](https://github.com/Arian-Zarazua)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick Links
+
+- **LinkedIn:** [linkedin.com/in/jacobtpoore](https://linkedin.com/in/az05/)
+
+---
+
+## Featured Project: Visualizing Single Family Home Values in the United States
+
+An interactive map that displays how single family property values have changed in the US over time.
+
+`R` 
+**Topics:** Real Estate, Data Analysis
+
+[View Project]()
+
+---
